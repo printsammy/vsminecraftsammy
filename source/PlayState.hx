@@ -604,6 +604,9 @@ class PlayState extends MusicBeatState
 					tweenCamIn();
 				}
 
+			case "sam":
+				dad.x -= 60;
+				dad.y -= 428;
 			case "spooky":
 				dad.y += 200;
 			case "monster":
