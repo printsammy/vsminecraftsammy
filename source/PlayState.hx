@@ -642,6 +642,7 @@ class PlayState extends MusicBeatState
 			case 'stage':
 				//there is probably a much better way of this but fuck you anyways, make a suggestion or smth smhhhhh
 				dad.y += 820;
+				dad.x += 45;
 			case 'limo':
 				boyfriend.y -= 220;
 				boyfriend.x += 260;
