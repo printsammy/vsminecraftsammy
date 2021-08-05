@@ -6,6 +6,7 @@ class HealthIcon extends FlxSprite
 {
 	/**
 	 * Used for FreeplayState! If you use it elsewhere, prob gonna annoying
+	 * shut the fuck up ninjamuffin
 	 */
 	public var sprTracker:FlxSprite;
 
